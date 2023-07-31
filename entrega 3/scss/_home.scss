@@ -1,0 +1,9 @@
+nav{
+    background-color: $color-principal;
+    a{
+        color:$color-letras;
+        &:hover{
+            background-color: #A9D050;
+        }
+    }
+}

@@ -1,34 +1,11 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-:root{
-    --azul:#233E62;
-    --blanco: whitesmoke; 
-}
-.menu-color{
-    background-color: var(--azul);
-}
-.color-home{
-    color: var(--blanco);
-    
-}
-.color-tienda{
-    color: var(--blanco);
-}
-.color-clases{
-    color: var(--blanco);
-}
-.color-funcional{
-    color: var(--blanco);
-}
-a:hover{
-    background-color: #A9D050;
-}
+nav {
+  background-color: #233E62; }
+  nav a {
+    color: whitesmoke; }
+    nav a:hover {
+      background-color: #A9D050; }
 
-.footer{
-    background-color:var(--azul);
-    color: var(--blanco);
-    text-align: center;
-}
+.footer {
+  background-color: #233E62;
+  color: whitesmoke;
+  text-align: center; }
