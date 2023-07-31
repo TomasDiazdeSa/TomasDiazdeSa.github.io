@@ -1,11 +1,22 @@
-nav {
+.menu-color {
   background-color: #233E62; }
-  nav a {
-    color: whitesmoke; }
-    nav a:hover {
-      background-color: #A9D050; }
+
+a:hover {
+  background-color: #A9D050; }
 
 .footer {
   background-color: #233E62;
   color: whitesmoke;
   text-align: center; }
+
+.color-clases {
+  color: whitesmoke; }
+
+.color-funcional {
+  color: whitesmoke; }
+
+.color-tienda {
+  color: whitesmoke; }
+
+.color-home {
+  color: whitesmoke; }
