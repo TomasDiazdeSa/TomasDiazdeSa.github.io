@@ -20,3 +20,26 @@ a:hover {
 
 .color-home {
   color: whitesmoke; }
+
+  header nav h1{
+    color:whitesmoke;
+  }
+
+  p{
+    font-family: 'Roboto', sans-serif;
+  }
+  h1{
+    font-family: 'Roboto', sans-serif;
+  }
+  h2{
+    font-family: 'Roboto', sans-serif;
+  }
+  .color-compra{
+    color: black;
+  }
+  div h1{
+    color: black;
+  }
+  .card{
+    margin: 20px;
+  }
