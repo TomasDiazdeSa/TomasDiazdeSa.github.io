@@ -1,0 +1,45 @@
+.menu-color {
+  background-color: #233E62; }
+
+a:hover {
+  background-color: #A9D050; }
+
+.footer {
+  background-color: #233E62;
+  color: whitesmoke;
+  text-align: center; }
+
+.color-clases {
+  color: whitesmoke; }
+
+.color-funcional {
+  color: whitesmoke; }
+
+.color-tienda {
+  color: whitesmoke; }
+
+.color-home {
+  color: whitesmoke; }
+
+  header nav h1{
+    color:whitesmoke;
+  }
+
+  p{
+    font-family: 'Roboto', sans-serif;
+  }
+  h1{
+    font-family: 'Roboto', sans-serif;
+  }
+  h2{
+    font-family: 'Roboto', sans-serif;
+  }
+  .color-compra{
+    color: black;
+  }
+  div h1{
+    color: black;
+  }
+  .card{
+    margin: 205px;
+  }
